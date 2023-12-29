@@ -23,7 +23,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 # Publications 
 
 <!-- DiffIR -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='images/diffir-iccv2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='images/diffir-iccv2023.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DiffIR: Efficient diffusion model for image restoration](https://arxiv.org/pdf/2303.09472.pdf)
@@ -37,7 +37,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 </div>
 
 <!-- SSL -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2023</div><img src='images/ssl-cvpr2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2023</div><img src='images/ssl-cvpr2023.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Structured Sparsity Learning for Efficient Video Super-Resolution](https://arxiv.org/pdf/2206.07687.pdf)
@@ -51,7 +51,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 </div>
 
 <!-- BBCU -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2023</div><img src='images/bbcu-iclr2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2023</div><img src='images/bbcu-iclr2023.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Basic Binary Convolution Unit for Binarized Image Restoration Network](https://arxiv.org/pdf/2210.00405.pdf)
@@ -65,7 +65,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 </div>
 
 <!-- KDSR -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2023</div><img src='images/kdsr-iclr2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2023</div><img src='images/kdsr-iclr2023.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Knowledge Distillation based Degradation Estimation for Blind Super-Resolution](https://arxiv.org/pdf/2211.16928.pdf)
@@ -79,7 +79,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 </div>
 
 <!-- MRDA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP2022</div><img src='images/mrda-tip2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP2022</div><img src='images/MRDA-tip2022.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Meta-learning based degradation representation for blind super-resolution](https://arxiv.org/pdf/2207.13963.pdf)
@@ -93,7 +93,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 </div>
 
 <!-- AMSA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div><img src='images/amsa-aaai2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div><img src='images/amsa-aaai2022.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Coarse-to-Fine Embedded PatchMatch and Multi-Scale Dynamic Aggregation for Reference-based Super-Resolution](https://arxiv.org/abs/2201.04358)
@@ -107,7 +107,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 </div>
 
 <!-- ENLCA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div><img src='images/enlca-aaai2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div><img src='images/enlca-aaai2022.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Non-Local Contrastive Attention for Image Super-Resolution](https://arxiv.org/pdf/2201.03794)
