@@ -43,7 +43,7 @@ Recently, my research interests focus on generative models and LLM. Previously, 
 
 [LLMGA: Multimodal Large Language Model based Generation Assistant](https://arxiv.org/pdf/2311.16500)
 
-**Bin Xia**, , Shiyin Wang, Yingfan Tao, Yitong Wang, Jiaya Jia
+**Bin Xia**,  Shiyin Wang, Yingfan Tao, Yitong Wang, Jiaya Jia
 
 [**[Paper]**](https://arxiv.org/pdf/2311.16500)&nbsp;
 [**[Code]**](https://github.com/dvlab-research/LLMGA)
