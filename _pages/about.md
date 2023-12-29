@@ -23,14 +23,14 @@ Recently, my research interests focus on generative models and LLM. Previously, 
 
 
 # News
-**2023.11**	We release [LLMGA](https://github.com/dvlab-research/LLMGA).
-**2023.09**	1 papers are accepted by NeurIPS 2023 (Soptlight).
-**2023.10**	We release [DiffI2I](https://arxiv.org/pdf/2308.13767).
-**2023.07**	1 papers are accepted by ICCV 2023.
-**2023.06**	1 papers are accepted by TIP.
-**2023.02**	1 papers are accepted by CVPR 2023.
-**2023.01**	2 papers are accepted by ICLR 2023.
-**2021.12**	2 papers are accepted by AAAI 2022.
+- **2023.11**	We release [LLMGA](https://github.com/dvlab-research/LLMGA).
+- **2023.09**	1 papers are accepted by NeurIPS 2023 (Soptlight).
+- **2023.10**	We release [DiffI2I](https://arxiv.org/pdf/2308.13767).
+- **2023.07**	1 papers are accepted by ICCV 2023.
+- **2023.06**	1 papers are accepted by TIP.
+- **2023.02**	1 papers are accepted by CVPR 2023.
+- **2023.01**	2 papers are accepted by ICLR 2023.
+- **2021.12**	2 papers are accepted by AAAI 2022.
 
 # Publications 
 
