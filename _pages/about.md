@@ -25,7 +25,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 
 
 <!-- LLMGA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/diffir-iccv2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/llmga-arxiv2023.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLMGA: Multimodal Large Language Model based Generation Assistant](https://arxiv.org/pdf/2311.16500)
@@ -39,7 +39,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 </div>
 
 <!-- DiffI2I -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/diffir-iccv2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/diffi2i-arxiv2023.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DiffI2I: Efficient Diffusion Model for Image-to-Image Translation](https://arxiv.org/pdf/2308.13767)
@@ -52,7 +52,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 </div>
 
 <!-- Hi-Diff -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2023</div><img src='images/diffir-iccv2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2023</div><img src='images/hidiff-nips2023.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hierarchical Integration Diffusion Model for Realistic Image Deblurring](https://arxiv.org/pdf/2305.12966.pdf)
