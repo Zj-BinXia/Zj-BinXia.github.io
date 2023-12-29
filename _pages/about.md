@@ -126,12 +126,12 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 # Services
 
 # Honors and Awards
-- *2023.07*  Excellent Graduate of Tsinghua University
-- *2023.07*  Excellent Master Thesis Award, Tsinghua University
-- *2023.05*  Outstanding Reviewer Award at CVPR
-- *2023.05*  First Prize in Internship Award of Tsinghua University
-- *2022.10*  National Scholarship, Tsinghua University
-- *2020.07*  Excellent Graduate of Xidian University
-- *2018.10*  National Scholarship, Xidian University
+- *2023.07*,  Excellent Graduate of Tsinghua University
+- *2023.07*,  Excellent Master Thesis Award, Tsinghua University
+- *2023.05*,  Outstanding Reviewer Award at CVPR
+- *2023.05*,  First Prize in Internship Award of Tsinghua University
+- *2022.10*,  National Scholarship, Tsinghua University
+- *2020.07*,  Excellent Graduate of Xidian University
+- *2018.10*,  National Scholarship, Xidian University
 
 
