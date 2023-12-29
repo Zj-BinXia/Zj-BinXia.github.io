@@ -25,7 +25,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 
 
 <!-- LLMGA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/llmga-arxiv2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/llmga-arxiv2023.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLMGA: Multimodal Large Language Model based Generation Assistant](https://arxiv.org/pdf/2311.16500)
@@ -39,7 +39,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 </div>
 
 <!-- DiffI2I -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/diffi2i-arxiv2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/diffi2i-arxiv2023.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DiffI2I: Efficient Diffusion Model for Image-to-Image Translation](https://arxiv.org/pdf/2308.13767)
@@ -52,7 +52,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 </div>
 
 <!-- Hi-Diff -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2023</div><img src='images/hidiff-nips2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2023</div><img src='images/hidiff-nips2023.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hierarchical Integration Diffusion Model for Realistic Image Deblurring](https://arxiv.org/pdf/2305.12966.pdf)
@@ -67,7 +67,7 @@ Zheng Chen, Yulun Zhang, Ding Liu, **Bin Xia**, Jinjin Gu, Linghe Kong, and Xin 
 
 
 <!-- DiffIR -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='images/diffir-iccv2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='images/diffir-iccv2023.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DiffIR: Efficient diffusion model for image restoration](https://arxiv.org/pdf/2303.09472.pdf)
@@ -83,7 +83,7 @@ Zheng Chen, Yulun Zhang, Ding Liu, **Bin Xia**, Jinjin Gu, Linghe Kong, and Xin 
 
 
 <!-- SSL -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2023</div><img src='images/ssl-cvpr2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2023</div><img src='images/ssl-cvpr2023.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Structured Sparsity Learning for Efficient Video Super-Resolution](https://arxiv.org/pdf/2206.07687.pdf)
@@ -97,7 +97,7 @@ Zheng Chen, Yulun Zhang, Ding Liu, **Bin Xia**, Jinjin Gu, Linghe Kong, and Xin 
 </div>
 
 <!-- BBCU -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2023</div><img src='images/bbcu-iclr2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2023</div><img src='images/bbcu-iclr2023.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Basic Binary Convolution Unit for Binarized Image Restoration Network](https://arxiv.org/pdf/2210.00405.pdf)
@@ -111,7 +111,7 @@ Zheng Chen, Yulun Zhang, Ding Liu, **Bin Xia**, Jinjin Gu, Linghe Kong, and Xin 
 </div>
 
 <!-- KDSR -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2023</div><img src='images/kdsr-iclr2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2023</div><img src='images/kdsr-iclr2023.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Knowledge Distillation based Degradation Estimation for Blind Super-Resolution](https://arxiv.org/pdf/2211.16928.pdf)
@@ -127,7 +127,7 @@ Zheng Chen, Yulun Zhang, Ding Liu, **Bin Xia**, Jinjin Gu, Linghe Kong, and Xin 
 
 
 <!-- MRDA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP2022</div><img src='images/MRDA-tip2022.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP2022</div><img src='images/MRDA-tip2022.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Meta-learning based degradation representation for blind super-resolution](https://arxiv.org/pdf/2207.13963.pdf)
@@ -141,7 +141,7 @@ Zheng Chen, Yulun Zhang, Ding Liu, **Bin Xia**, Jinjin Gu, Linghe Kong, and Xin 
 </div>
 
 <!-- AMSA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div><img src='images/amsa-aaai2022.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div><img src='images/amsa-aaai2022.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Coarse-to-Fine Embedded PatchMatch and Multi-Scale Dynamic Aggregation for Reference-based Super-Resolution](https://arxiv.org/abs/2201.04358)
@@ -155,7 +155,7 @@ Zheng Chen, Yulun Zhang, Ding Liu, **Bin Xia**, Jinjin Gu, Linghe Kong, and Xin 
 </div>
 
 <!-- ENLCA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div><img src='images/enlca-aaai2022.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div><img src='images/enlca-aaai2022.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Non-Local Contrastive Attention for Image Super-Resolution](https://arxiv.org/pdf/2201.03794)
