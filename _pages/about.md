@@ -21,6 +21,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 
 Recently, my research interests focus on generative models and LLM. Previously, I focused on low-level vision and model compression.
 
+<span class='anchor' id='-news'></span>
 
 # News
 - **2023.11**	We release [LLMGA](https://github.com/dvlab-research/LLMGA).
@@ -187,6 +188,8 @@ Zheng Chen, Yulun Zhang, Ding Liu, **Bin Xia**, Jinjin Gu, Linghe Kong, and Xin 
 - **2022.10**,  National Scholarship, Tsinghua University
 - **2020.07**,  Excellent Graduate of Xidian University
 - **2018.10**,  National Scholarship, Xidian University
+
+<span class='anchor' id='-services'></span>
 
 # Services
 
