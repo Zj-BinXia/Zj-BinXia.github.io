@@ -19,7 +19,18 @@ redirect_from:
 
 I am currently a 1st year PhD student in the Department of Computer Science and Engineering, Chinese University of Hong Kong, advised by Prof. [Jiaya Jia](https://scholar.google.com/citations?user=XPAkzTEAAAAJ). Previously, I received my master degree from Tsinghua University in 2023, advised by Prof. [Wenming Yang](https://scholar.google.com/citations?hl=en&user=vsE4nKcAAAAJ). During my study in Tsinghua University, I spent a good time with prof. [Yapeng Tian](https://scholar.google.com/citations?user=lxCqdpoAAAAJ), prof. [Yulun Zhang](https://scholar.google.com/citations?user=ORmLjWoAAAAJ), prof. [Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ), and prof. [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ). Before that, I obtained my B.E degree from Xidian University in 2020. 
 
+Recently, my research interests focus on generative models and LLM. Previously, I focused on low-level vision and model compression.
+
+
 # News
+**2023.11**	We release [LLMGA](https://github.com/dvlab-research/LLMGA).
+**2023.09**	1 papers are accepted by NeurIPS 2023 (Soptlight).
+**2023.10**	We release [DiffI2I](https://arxiv.org/pdf/2308.13767).
+**2023.07**	1 papers are accepted by ICCV 2023.
+**2023.06**	1 papers are accepted by TIP.
+**2023.02**	1 papers are accepted by CVPR 2023.
+**2023.01**	2 papers are accepted by ICLR 2023.
+**2021.12**	2 papers are accepted by AAAI 2022.
 
 # Publications 
 
@@ -169,19 +180,19 @@ Zheng Chen, Yulun Zhang, Ding Liu, **Bin Xia**, Jinjin Gu, Linghe Kong, and Xin 
 </div>
 
 # Honors and Awards
-- *2023.07*,  Excellent Graduate of Tsinghua University
-- *2023.07*,  Excellent Master Thesis Award, Tsinghua University
-- *2023.05*,  Outstanding Reviewer Award at CVPR
-- *2023.05*,  First Prize in Internship Award of Tsinghua University
-- *2022.10*,  National Scholarship, Tsinghua University
-- *2020.07*,  Excellent Graduate of Xidian University
-- *2018.10*,  National Scholarship, Xidian University
+- **2023.07**,  Excellent Graduate of Tsinghua University
+- **2023.07**,  Excellent Master Thesis Award, Tsinghua University
+- **2023.05**,  Outstanding Reviewer Award at CVPR
+- **2023.05**,  First Prize in Internship Award of Tsinghua University
+- **2022.10**,  National Scholarship, Tsinghua University
+- **2020.07**,  Excellent Graduate of Xidian University
+- **2018.10**,  National Scholarship, Xidian University
 
 # Services
 
-Conference Reviewer: CVPR, ICLR, ICCV, NeurIPS, AAAI, WACV
+**Conference Reviewer**: CVPR, ICLR, ICCV, NeurIPS, AAAI, WACV
 
-Journal Reviewer: TIP, IJCV, TNNLS, TMM, TCSVT
+**Journal Reviewer**: TIP, IJCV, TNNLS, TMM, TCSVT
 
 
 
