@@ -20,31 +20,25 @@ redirect_from:
 I am currently a 1st year PhD student in the Department of Computer Science and Engineering, Chinese University of Hong Kong, advised by Prof. [Jiaya Jia](https://scholar.google.com/citations?user=XPAkzTEAAAAJ). Previously, I received my master degree from Tsinghua University in 2023, advised by Prof. [Wenming Yang](https://scholar.google.com/citations?hl=en&user=vsE4nKcAAAAJ). During my study in Tsinghua University, I spent a good time with prof. [Yapeng Tian](https://scholar.google.com/citations?user=lxCqdpoAAAAJ), prof. [Yulun Zhang](https://scholar.google.com/citations?user=ORmLjWoAAAAJ), prof. [Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ), and prof. [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ). Before that, I obtained my B.E degree from Xidian University in 2020. 
 
 
+# Publications 
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- ENLCA -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div><img src='images/papers/animatediff.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Efficient Non-Local Contrastive Attention for Image Super-Resolution](https://arxiv.org/pdf/2201.03794.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Bin Xia**, Yucheng Hang, Yapeng Tian, Wenming Yang, Qingmin Liao, Jie Zhou
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**[Paper]**](https://arxiv.org/pdf/2201.03794.pdf)&nbsp;
+[**[Code]**](https://github.com/Zj-BinXia/ENLCA)
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# Services
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
