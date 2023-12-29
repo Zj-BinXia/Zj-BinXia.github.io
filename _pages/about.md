@@ -23,7 +23,7 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 # Publications 
 
 <!-- ENLCA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div></div></div>
+<div><div class="badge">AAAI2022</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Non-Local Contrastive Attention for Image Super-Resolution](https://arxiv.org/pdf/2201.03794.pdf)
