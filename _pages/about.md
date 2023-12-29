@@ -26,12 +26,26 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div><img src='images/enlca-aaai2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Efficient Non-Local Contrastive Attention for Image Super-Resolution](https://arxiv.org/pdf/2201.03794.pdf)
+[Efficient Non-Local Contrastive Attention for Image Super-Resolution](https://arxiv.org/pdf/2201.03794)
 
 **Bin Xia**, Yucheng Hang, Yapeng Tian, Wenming Yang, Qingmin Liao, Jie Zhou
 
 [**[Paper]**](https://arxiv.org/pdf/2201.03794.pdf)&nbsp;
 [**[Code]**](https://github.com/Zj-BinXia/ENLCA)
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<!-- AMSA -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div><img src='images/amsa-aaai2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Coarse-to-Fine Embedded PatchMatch and Multi-Scale Dynamic Aggregation for Reference-based Super-Resolution](https://arxiv.org/abs/2201.04358)
+
+**Bin Xia**, Yucheng Hang, Yapeng Tian, Wenming Yang, Qingmin Liao, Jie Zhou
+
+[**[Paper]**](https://arxiv.org/abs/2201.04358)&nbsp;
+[**[Code]**](https://github.com/Zj-BinXia/AMSA)
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
