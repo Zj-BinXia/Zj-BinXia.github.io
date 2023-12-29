@@ -33,8 +33,9 @@ Recently, my research interests focus on generative models and LLM. Previously, 
 - **2023.01**	2 papers are accepted by ICLR 2023.
 - **2021.12**	2 papers are accepted by AAAI 2022.
 
-# Publications 
+<span class='anchor' id='-publications'></span>
 
+# Publications 
 
 <!-- LLMGA -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/llmga-arxiv2023.png' alt="sym" width="70%"></div></div>
@@ -179,6 +180,8 @@ Zheng Chen, Yulun Zhang, Ding Liu, **Bin Xia**, Jinjin Gu, Linghe Kong, and Xin 
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
+
+<span class='anchor' id='-honors-and-awards'></span>
 
 # Honors and Awards
 - **2023.07**,  Excellent Graduate of Tsinghua University
