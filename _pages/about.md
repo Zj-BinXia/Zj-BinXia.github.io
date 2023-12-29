@@ -22,16 +22,72 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 
 # Publications 
 
-<!-- ENLCA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div><img src='images/enlca-aaai2022.png' alt="sym" width="100%"></div></div>
+<!-- DiffIR -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='images/diffir-iccv2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Efficient Non-Local Contrastive Attention for Image Super-Resolution](https://arxiv.org/pdf/2201.03794)
+[DiffIR: Efficient diffusion model for image restoration](https://arxiv.org/pdf/2303.09472.pdf)
 
-**Bin Xia**, Yucheng Hang, Yapeng Tian, Wenming Yang, Qingmin Liao, Jie Zhou
+**Bin Xia**, Yulun Zhang, Shiyin Wang, Yitong Wang, Xinglong Wu, Yapeng Tian, Wenming Yang, Luc Van Gool
 
-[**[Paper]**](https://arxiv.org/pdf/2201.03794.pdf)&nbsp;
-[**[Code]**](https://github.com/Zj-BinXia/ENLCA)
+[**[Paper]**](https://arxiv.org/pdf/2303.09472.pdf)&nbsp;
+[**[Code]**](https://github.com/Zj-BinXia/DiffIR)
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<!-- SSL -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2023</div><img src='images/ssl-cvpr2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Structured Sparsity Learning for Efficient Video Super-Resolution](https://arxiv.org/pdf/2206.07687.pdf)
+
+**Bin Xia**, Jingwen He, Yulun Zhang, Yitong Wang, Yapeng Tian, Wenming Yang, Luc Van Gool
+
+[**[Paper]**](https://arxiv.org/pdf/2206.07687.pdf)&nbsp;
+[**[Code]**](https://github.com/Zj-BinXia/SSL)
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<!-- BBCU -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2023</div><img src='images/bbcu-iclr2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Basic Binary Convolution Unit for Binarized Image Restoration Network](https://arxiv.org/pdf/2210.00405.pdf)
+
+**Bin Xia**, Yulun Zhang, Yitong Wang, Yapeng Tian, Wenming Yang, Radu Timofte, Luc Van Gool
+
+[**[Paper]**](https://arxiv.org/pdf/2210.00405.pdf)&nbsp;
+[**[Code]**](https://github.com/Zj-BinXia/BBCU)
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<!-- KDSR -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2023</div><img src='images/kdsr-iclr2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Knowledge Distillation based Degradation Estimation for Blind Super-Resolution](https://arxiv.org/pdf/2211.16928.pdf)
+
+**Bin Xia**, Yulun Zhang, Yitong Wang, Yapeng Tian, Wenming Yang, Radu Timofte, Luc Van Gool
+
+[**[Paper]**](https://arxiv.org/pdf/2211.16928.pdf)&nbsp;
+[**[Code]**](https://github.com/Zj-BinXia/KDSR)
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<!-- MRDA -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP2022</div><img src='images/mrda-tip2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Meta-learning based degradation representation for blind super-resolution](https://arxiv.org/pdf/2207.13963.pdf)
+
+**Bin Xia**, Yapeng Tian, Yulun Zhang, Yucheng Hang, Wenming Yang, Qingmin Liao
+
+[**[Paper]**](https://arxiv.org/pdf/2207.13963.pdf)&nbsp;
+[**[Code]**](https://github.com/Zj-BinXia/MRDA)
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
@@ -49,6 +105,22 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
+
+<!-- ENLCA -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2022</div><img src='images/enlca-aaai2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient Non-Local Contrastive Attention for Image Super-Resolution](https://arxiv.org/pdf/2201.03794)
+
+**Bin Xia**, Yucheng Hang, Yapeng Tian, Wenming Yang, Qingmin Liao, Jie Zhou
+
+[**[Paper]**](https://arxiv.org/pdf/2201.03794.pdf)&nbsp;
+[**[Code]**](https://github.com/Zj-BinXia/ENLCA)
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+
 
 # Services
 
