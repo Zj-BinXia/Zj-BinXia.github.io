@@ -23,6 +23,49 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 
 # Publications 
 
+
+<!-- LLMGA -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/diffir-iccv2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLMGA: Multimodal Large Language Model based Generation Assistant](https://arxiv.org/pdf/2311.16500)
+
+**Bin Xia**, , Shiyin Wang, Yingfan Tao, Yitong Wang, Jiaya Jia
+
+[**[Paper]**](https://arxiv.org/pdf/2311.16500)&nbsp;
+[**[Code]**](https://github.com/dvlab-research/LLMGA)
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<!-- DiffI2I -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/diffir-iccv2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DiffI2I: Efficient Diffusion Model for Image-to-Image Translation](https://arxiv.org/pdf/2308.13767)
+
+**Bin Xia**, Yulun Zhang, Shiyin Wang, Yitong Wang, Xinglong Wu, Yapeng Tian, Wenming Yang, Radu Timotfe, Luc Van Gool
+
+[**[Paper]**](https://arxiv.org/pdf/2308.13767)&nbsp;
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<!-- Hi-Diff -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2023</div><img src='images/diffir-iccv2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hierarchical Integration Diffusion Model for Realistic Image Deblurring](https://arxiv.org/pdf/2305.12966.pdf)
+
+Zheng Chen, Yulun Zhang, Ding Liu, **Bin Xia**, Jinjin Gu, Linghe Kong, and Xin Yuan
+
+[**[Paper]**](https://arxiv.org/pdf/2305.12966.pdf)&nbsp;
+[**[Code]**](https://github.com/zhengchen1999/HI-Diff)
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+
 <!-- DiffIR -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='images/diffir-iccv2023.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -36,6 +79,8 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
+
+
 
 <!-- SSL -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2023</div><img src='images/ssl-cvpr2023.png' alt="sym" width="80%"></div></div>
@@ -78,6 +123,8 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
+
+
 
 <!-- MRDA -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP2022</div><img src='images/MRDA-tip2022.png' alt="sym" width="80%"></div></div>
@@ -132,9 +179,9 @@ I am currently a 1st year PhD student in the Department of Computer Science and 
 
 # Services
 
-Conference: CVPR, ICLR, ICCV, NeurIPS, AAAI, WACV
+Conference Reviewer: CVPR, ICLR, ICCV, NeurIPS, AAAI, WACV
 
-Journal: TIP, IJCV, TNNLS, TMM, TCSVT
+Journal Reviewer: TIP, IJCV, TNNLS, TMM, TCSVT
 
 
 
