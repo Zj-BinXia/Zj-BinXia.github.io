@@ -24,7 +24,7 @@ Recently, my research interests focus on generative models and LLM. Previously, 
 <span class='anchor' id='-news'></span>
 
 # News
-- **2023.11**	We release [LLMGA](https://github.com/dvlab-research/LLMGA).
+- **2023.11**	We release Multimodal Large Language Model based Generation Assistant ([LLMGA](https://github.com/dvlab-research/LLMGA)).
 - **2023.09**	1 papers are accepted by NeurIPS 2023 (Soptlight).
 - **2023.10**	We release [DiffI2I](https://arxiv.org/pdf/2308.13767).
 - **2023.07**	1 papers are accepted by ICCV 2023.
