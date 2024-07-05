@@ -24,12 +24,13 @@ Recently, my research interests focus on generative models and LLM. Previously, 
 <span class='anchor' id='-news'></span>
 
 # News
+- **2024.07**	[LLMGA](https://github.com/dvlab-research/LLMGA) is accepted by ECCV 2024.
 - **2023.11**	We release Multimodal Large Language Model based Generation Assistant ([LLMGA](https://github.com/dvlab-research/LLMGA)).
-- **2023.09**	1 papers are accepted by NeurIPS 2023 (Soptlight).
+- **2023.09**	1 paper is accepted by NeurIPS 2023 (Soptlight).
 - **2023.10**	We release [DiffI2I](https://arxiv.org/pdf/2308.13767).
-- **2023.07**	1 papers are accepted by ICCV 2023.
-- **2023.06**	1 papers are accepted by TIP.
-- **2023.02**	1 papers are accepted by CVPR 2023.
+- **2023.07**	1 paper is accepted by ICCV 2023.
+- **2023.06**	1 paper is accepted by TIP.
+- **2023.02**	1 paper is accepted by CVPR 2023.
 - **2023.01**	2 papers are accepted by ICLR 2023.
 - **2021.12**	2 papers are accepted by AAAI 2022.
 
@@ -38,7 +39,7 @@ Recently, my research interests focus on generative models and LLM. Previously, 
 # Publications 
 
 <!-- LLMGA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/llmga-arxiv2023.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2024</div><img src='images/llmga-arxiv2023.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLMGA: Multimodal Large Language Model based Generation Assistant](https://arxiv.org/pdf/2311.16500)
