@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 1st year PhD student in the Department of Computer Science and Engineering, Chinese University of Hong Kong, advised by Prof. [Jiaya Jia](https://scholar.google.com/citations?user=XPAkzTEAAAAJ). Previously, I received my master degree from Tsinghua University in 2023, advised by Prof. Wenming Yang. During my study in Tsinghua University, I spent a good time with prof. [Yapeng Tian](https://scholar.google.com/citations?user=lxCqdpoAAAAJ), prof. [Yulun Zhang](https://scholar.google.com/citations?user=ORmLjWoAAAAJ), prof. [Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ), and prof. [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ). Before that, I obtained my B.E degree from Xidian University in 2020. 
+I am currently a 2nd year PhD student in the Department of Computer Science and Engineering, Chinese University of Hong Kong, advised by Prof. [Jiaya Jia](https://scholar.google.com/citations?user=XPAkzTEAAAAJ). Previously, I received my master degree from Tsinghua University in 2023, advised by Prof. Wenming Yang. During my study in Tsinghua University, I spent a good time with prof. [Yapeng Tian](https://scholar.google.com/citations?user=lxCqdpoAAAAJ), prof. [Yulun Zhang](https://scholar.google.com/citations?user=ORmLjWoAAAAJ), prof. [Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ), and prof. [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ). Before that, I obtained my B.E degree from Xidian University in 2020. 
 
 Recently, my research interests focus on generative models and LLM. Previously, I focused on low-level vision and model compression.
 
 <span class='anchor' id='-news'></span>
 
 # News
-- **2024.07**	[LLMGA](https://github.com/dvlab-research/LLMGA) is accepted by ECCV 2024.
+- **2024.11**	[DiffI2I](https://arxiv.org/pdf/2308.13767) is accepted by TPAMI.
+- **2024.07**	[LLMGA](https://github.com/dvlab-research/LLMGA) is accepted by ECCV 2024 Oral.
 - **2023.11**	We release Multimodal Large Language Model based Generation Assistant ([LLMGA](https://github.com/dvlab-research/LLMGA)).
 - **2023.09**	1 paper is accepted by NeurIPS 2023 (Soptlight).
 - **2023.10**	We release [DiffI2I](https://arxiv.org/pdf/2308.13767).
@@ -38,8 +39,22 @@ Recently, my research interests focus on generative models and LLM. Previously, 
 
 # Publications 
 
+<!-- DiffI2I -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/diffi2i-arxiv2023.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DiffI2I: Efficient Diffusion Model for Image-to-Image Translation](https://arxiv.org/pdf/2308.13767)
+
+**Bin Xia**, Yulun Zhang, Shiyin Wang, Yitong Wang, Xinglong Wu, Yapeng Tian, Wenming Yang, Radu Timotfe, Luc Van Gool
+
+[**[Paper]**](https://arxiv.org/pdf/2308.13767)&nbsp;
+[**[Code]**](https://github.com/Zj-BinXia/DiffIR)
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
 <!-- LLMGA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2024</div><img src='images/llmga-arxiv2023.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2024 Oral</div><img src='images/llmga-arxiv2023.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLMGA: Multimodal Large Language Model based Generation Assistant](https://arxiv.org/pdf/2311.16500)
@@ -52,19 +67,6 @@ Recently, my research interests focus on generative models and LLM. Previously, 
 </div>
 </div>
 
-<!-- DiffI2I -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/diffi2i-arxiv2023.png' alt="sym" width="70%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DiffI2I: Efficient Diffusion Model for Image-to-Image Translation](https://arxiv.org/pdf/2308.13767)
-
-**Bin Xia**, Yulun Zhang, Shiyin Wang, Yitong Wang, Xinglong Wu, Yapeng Tian, Wenming Yang, Radu Timotfe, Luc Van Gool
-
-[**[Paper]**](https://arxiv.org/pdf/2308.13767)&nbsp;
-[**[Code]**](https://github.com/Zj-BinXia/DiffIR)
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-</div>
-</div>
 
 <!-- Hi-Diff -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2023</div><img src='images/hidiff-nips2023.png' alt="sym" width="70%"></div></div>
