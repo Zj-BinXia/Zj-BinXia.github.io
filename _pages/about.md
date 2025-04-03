@@ -24,6 +24,7 @@ Recently, my research interests focus on generative models and LLM. Previously, 
 <span class='anchor' id='-news'></span>
 
 # News
+- **2025.03**	[DreamOmni](https://zj-binxia.github.io/DreamOmni-ProjectPage/) is accepted by CVPR2025.
 - **2024.12**	We release DreamOmni, a unified image generation and editing model ([DreamOmni](https://zj-binxia.github.io/DreamOmni-ProjectPage/)).
 - **2024.11**	[DiffI2I](https://arxiv.org/pdf/2308.13767) is accepted by TPAMI.
 - **2024.07**	[LLMGA](https://github.com/dvlab-research/LLMGA) is accepted by ECCV 2024 Oral.
